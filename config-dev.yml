@@ -1,1 +1,2 @@
-spirngcloud-config  config-dev.yml  version 1
+config:
+  info: spirngcloud-config  config-dev.yml  version 1
